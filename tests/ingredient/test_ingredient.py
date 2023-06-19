@@ -1,4 +1,4 @@
-from src.models.ingredient import Ingredient, Restriction
+from src.models.ingredient import Ingredient
 
 
 # Req 1
