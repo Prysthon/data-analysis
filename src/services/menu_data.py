@@ -19,4 +19,3 @@ class MenuData:
                 ingredient = Ingredient(ingredients)
                 dish.add_ingredient_dependency(ingredient, amount)
             self.dishes.add(dish)
-
